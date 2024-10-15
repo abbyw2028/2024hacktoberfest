@@ -1,4 +1,4 @@
-# Problem
+# Type of Problem
 Briefly describe the issue being addressed.
 
 Example: "Inconsistent UI behavior on hover for box items."
